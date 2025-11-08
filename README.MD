@@ -21,7 +21,7 @@ Permite crear, listar, buscar, actualizar y eliminar libros en una base de datos
 
 Clonar el repositoriO
 
-git clone https://github.com/<TU_USUARIO>/Biblioteca_API.git
+git clone https://github.com/alejandrouribea/Biblioteca_API.git
 cd Biblioteca_API
 
 
